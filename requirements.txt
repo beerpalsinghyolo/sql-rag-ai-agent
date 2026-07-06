@@ -1,0 +1,13 @@
+langchain>=0.3
+langchain-community
+langchain-groq
+langchain-chroma
+langchain-huggingface
+chromadb
+sqlalchemy
+pymysql
+pydantic-settings
+python-dotenv
+streamlit
+typer
+sentence-transformers

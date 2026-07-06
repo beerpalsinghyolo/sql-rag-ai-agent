@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+chroma_db/
+data/demo.db
+.pytest_cache/
+.streamlit/secrets.toml
+.env.local
+*.log
+pip-wheel-metadata/
+.mypy_cache/
